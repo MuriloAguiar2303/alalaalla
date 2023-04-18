@@ -1,0 +1,213 @@
+body{
+    background-color: rgb(247, 226, 226);
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    position: absolute;
+    top: 35%;
+    border: 3px solid white;
+    left: 25%;
+    font-size: 60px;
+}
+#div{
+    width: auto;
+    height: 100px;
+}
+#exercicio2{
+    background-color: darkgrey;
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border: 3px solid black;
+    border-radius: 20px;
+}
+#cubo{
+    position: relative;
+    left: 10%;
+}
+#aoCubo{
+    position: relative;
+    top: 10%;
+    left: 8px;
+}
+#enviarcubo{
+    position: relative;
+    top: 20%;
+    left: 34%;
+}
+#resultado2{
+    position: relative;
+    top: 30%;
+}
+#exercicio3{
+    left: 55%;
+    top: 156px;
+    background-color: darkgrey;
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border: 3px solid black;
+    border-radius: 20px;
+}
+#faren{
+    position: relative;
+    left:5%;
+}
+#temperaturaConver{
+    position: relative;
+    top: 10%;
+    left: 8px;
+}
+#trocarTemperatura{
+    position: relative;
+    top: 20%;
+    left: 34%;
+}
+#resultado3{
+    position: relative;
+    top: 30%;
+}
+#exercicio4{
+    top: -50px;
+    background-color: darkgrey;
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border: 3px solid black;
+    border-radius: 20px;
+}
+#triangulo{
+    position: relative;
+    left:5%;
+}
+#triangulo2{
+    position: relative;
+    top: 10%;
+    left: 34%;
+}
+#resultado4{
+    position: relative;
+    top: 30%;
+}
+#exercicio5{
+    top: -615px;
+    left: 28%;
+    background-color: darkgrey;
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border: 3px solid black;
+    border-radius: 20px;
+}
+#circulo{
+    position: relative;
+    left:5%;
+}
+#resultadoCirculo{
+    position: relative;
+    top: 20%;
+    left: 34%;
+}
+#raioDoCirculo{
+    top: 10%;
+    left: 5%;
+    position: relative;
+}
+#resultado5{
+    position: relative;
+    top: 30%;
+}
+#exercicio6{
+    left: 28%;
+    top: -461px;
+    background-color: darkgrey;
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border: 3px solid black;
+    border-radius: 20px;
+}
+#desconto{
+    position: relative;
+    left: 5%;
+}
+#valor{
+    position: relative;
+    top: 10%;
+    left: 8px;
+}
+#resultadoDesconto{
+    position: relative;
+    top: 20%;
+    left: 34%;
+}
+#resultado6{
+    position: relative;
+    top: 30%;
+    left: 3px;
+}
+#exercicio7{
+    left: 80%;
+    top: -1025px;
+    background-color: darkgrey;
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border: 3px solid black;
+    border-radius: 20px;
+}
+#data{
+    position: relative;
+    left: 5%;
+   
+}
+#data2{
+    position: relative;
+    top: 15px;
+    left: 40px;
+    
+}
+#maiorDe{
+    position: relative ;
+    top: 70px;
+    left: -22%;
+}
+#resultado7{
+    position: relative;
+    top: 100px;
+}
+#exercicio8{
+    left: 55%;
+    top: -1230px;
+    background-color: darkgrey;
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border: 3px solid black;
+    border-radius: 20px;
+}
+#carro{
+    position: relative;
+    left: 5%;
+   
+}
+#gasolina{
+    position: relative;
+    top: 15px;
+    left: 20px;
+}
+#buttonCarro{
+    position: relative;
+    top: 20%;
+    left: 34%;
+}
+#resultado8{
+    position: relative;
+    top: 30%;
+}
+.resultado{
+    position: relative;
+    left: 10%;
+    font-family: 'Times New Roman', Times, serif;
+
+}
